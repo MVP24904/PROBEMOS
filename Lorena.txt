@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Soy Lorena y mi novio es m***
+=======
+Soy Lorena y mi novio es super hetero
+>>>>>>> c2bb24d19756223d4a19a836d8b3abde2c564ad4
